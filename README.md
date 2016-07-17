@@ -1,3 +1,3 @@
 # hello-world
-My first project.
+My first.
 I'm a little serious.
